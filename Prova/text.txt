@@ -1,0 +1,6 @@
+{
+    "player": "Cristiano Ronaldo",
+    "team": "Juventus",
+    "age": 34,
+}
+
